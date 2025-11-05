@@ -1,0 +1,84 @@
+[
+  {
+    "sid": "/documentación-final-de-software-2",
+    "title": "Documentación Final de Software 2",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/diagramas-uml",
+    "title": "Diagramas UML",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/1-diagrama-de-paquetes",
+        "title": "1. Diagrama de Paquetes",
+        "level": 2,
+        "parent": "/diagramas-uml",
+        "children": []
+      },
+      {
+        "sid": "/2-diagrama-de-componentes",
+        "title": "2. Diagrama de Componentes",
+        "level": 2,
+        "parent": "/diagramas-uml",
+        "children": []
+      },
+      {
+        "sid": "/3-diagrama-de-secuencia",
+        "title": "3. Diagrama de Secuencia",
+        "level": 2,
+        "parent": "/diagramas-uml",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/modelo-41-de-arquitectura-del-sistema-parkeds",
+    "title": "Modelo 4+1 de Arquitectura del Sistema ParkEDS",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/vista-lógica",
+        "title": "Vista Lógica",
+        "level": 2,
+        "parent": "/modelo-41-de-arquitectura-del-sistema-parkeds",
+        "children": []
+      },
+      {
+        "sid": "/vista-de-desarrollo",
+        "title": "Vista de Desarrollo",
+        "level": 2,
+        "parent": "/modelo-41-de-arquitectura-del-sistema-parkeds",
+        "children": []
+      },
+      {
+        "sid": "/vista-de-procesos",
+        "title": "Vista de Procesos",
+        "level": 2,
+        "parent": "/modelo-41-de-arquitectura-del-sistema-parkeds",
+        "children": []
+      },
+      {
+        "sid": "/vista-física",
+        "title": "Vista Física",
+        "level": 2,
+        "parent": "/modelo-41-de-arquitectura-del-sistema-parkeds",
+        "children": []
+      },
+      {
+        "sid": "/vista-de-escenarios-1",
+        "title": "Vista de Escenarios (+1)",
+        "level": 2,
+        "parent": "/modelo-41-de-arquitectura-del-sistema-parkeds",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/resumen-general",
+    "title": "Resumen General",
+    "level": 1,
+    "children": []
+  }
+]
