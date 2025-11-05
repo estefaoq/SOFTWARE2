@@ -1,1 +1,4 @@
-# SOFTWARE2 [Diagramas 2.zip](https://github.com/user-attachments/files/23349448/Diagramas.2.zip)
+# SOFTWARE2 
+#Este repositorio contiene la documentación y diagramas de ParkEDS
+
+[PlantillaDocumentaciónDiagramaComponentes.xlsx](https://github.com/user-attachments/files/23349996/PlantillaDocumentacionDiagramaComponentes.xlsx)
